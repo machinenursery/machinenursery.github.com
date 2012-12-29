@@ -1,5 +1,5 @@
 ---
 layout: page
-tagline: Supporting tagline
+title: Machine Nursery
 ---
 blah
