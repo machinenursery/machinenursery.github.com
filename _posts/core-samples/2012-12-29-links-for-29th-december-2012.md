@@ -5,8 +5,6 @@ tags : [machine-learning, data-science]
 ---
 {% include JB/setup %}
 
-## Links for 29th December 2012
-
 [Getting Started with Data Science](http://bit.ly/12NLNHG) | Hilary Mason  
 Start doing something data related, share it, get to know other people doing this type of work.
 
