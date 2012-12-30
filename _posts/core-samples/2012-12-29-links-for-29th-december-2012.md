@@ -21,4 +21,4 @@ Useful ideas on how organisations can make use of the data they already have to 
 A substantial list of books available either online or as PDFs covering various topics from statistics to data mining to learning algorithms.
 
 [Newspapers and guns: If data is available, should it always be published?](http://bit.ly/WLjmWI) | Matthew Ingram  
-On the back of a New York newspaper publishing a map with the addresses of registered gun owners in the States, Matthew Ingram asks what personal information should be available and when.
+On the back of a New York newspaper [publishing a map with the addresses of registered gun owners](http://lohud.us/VoLwI9) in the States, Matthew Ingram asks what personal information should be available and when.
