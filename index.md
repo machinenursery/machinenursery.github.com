@@ -8,7 +8,7 @@ We're trying to learn about this whole machine learning/data science/big data th
 
 Hopefully it's useful and if you want to contribute, the repository containing all of this is on [github](https://github.com/machinenursery/machinenursery.github.com) so fork away and then send us a pull request.
 
-#### [Mark Needham](https://twitter.com/markhneedham), [Jen Smith](https://twitter.com/jennifersmithco) & [Ashok Subramanian](https://twitter.com/a5hok).
+####[Jen Smith](https://twitter.com/jennifersmithco), [Mark Needham](https://twitter.com/markhneedham) & [Ashok Subramanian](https://twitter.com/a5hok).
 
 ***
 
