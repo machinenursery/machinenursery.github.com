@@ -36,4 +36,4 @@ Just before Christmas the European Commission announced that they've opened up 5
 ***
 
 [Sure, Big Data Is Great. But So Is Intuition.](http://nyti.ms/WT95YH) | Steve Lohr  
-Steve Lohr talks about the benefits of big data but suggests using our intuition too since "what is intuition at its best  but large amounts of data of all kinds filtered through a human brain rather than a math model?".
+Steve Lohr talks about the benefits of big data but suggests using our intuition too since "what is intuition at its best  but large amounts of data of all kinds filtered through a human brain rather than a math model?". Larry Ferlazzo refers to this as being being ['data informed' rather than 'data driven'](http://bit.ly/VpV0mL)
