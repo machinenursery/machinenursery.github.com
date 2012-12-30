@@ -16,7 +16,7 @@ Hopefully it's useful and if you want to contribute, the repository containing a
 
 [Kaggle](http://www.kaggle.com/) is a website which hosts data related competitions - organisations provide data sets and problems they want solved and people compete to win prizes for coming up with the best solution.
 
-They also recently started running competitions where the intention is to help people learn more about machine learning and the first of those is [Digit Recognizer](http://www.kaggle.com/c/digit-recognizer).
+They also recently started running competitions to help people learn more about machine learning, the first of which is [Digit Recognizer](http://www.kaggle.com/c/digit-recognizer).
 
 ## From around the web
 <div class="posts">
