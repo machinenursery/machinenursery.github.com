@@ -32,3 +32,8 @@ Using data from a project he worked on Vasco describes how they were able to pre
 
 [European Commission Launches Open Data Portal In Public Beta](http://tnw.co/RoBZQX) | Robin Wauters  
 Just before Christmas the European Commission announced that they've opened up 5800+ datasets as part of their [Open Data Portal](http://open-data.europa.eu/open-data/). There's a more visible launch at the start of next year but it looks like all the data is there to play with.
+
+***
+
+[Sure, Big Data Is Great. But So Is Intuition.](http://nyti.ms/WT95YH) | Steve Lohr  
+Steve Lohr talks about the benefits of big data but suggests using our intuition too since "what is intuition at its best  but large amounts of data of all kinds filtered through a human brain rather than a math model?".
