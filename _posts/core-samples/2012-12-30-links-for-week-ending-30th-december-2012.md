@@ -33,6 +33,8 @@ A substantial list of books available either online or as PDFs covering various 
 [Newspapers and guns: If data is available, should it always be published?](http://bit.ly/WLjmWI) | Matthew Ingram  
 On the back of a New York newspaper [publishing a map with the addresses of registered gun owners](http://lohud.us/VoLwI9) in the States, Matthew Ingram asks what personal information should be available and when.
 
+***
+
 [Open data is not a panacea](http://bit.ly/TTCLrA) | Cathy O'Neil  
 [Cathy O'Neil](https://twitter.com/mathbabedotorg) points out some of the dangers of making important data public and suggests that we need to come up with a weigh to measure whether good or bad is being done with the data being made available.
 
